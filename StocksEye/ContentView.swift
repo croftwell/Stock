@@ -3,7 +3,7 @@
 //  StocksEye
 //
 //  Created by Ali on 4.05.2023.
-//j
+//jj
 
 import SwiftUI
 
